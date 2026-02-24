@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @komangst
+- 👋 Hi, I’m Komang Toris
 - 👀 I’m interested in Coding and Cyber Security
 - 🌱 I’m currently learning Basic of Cyber Security
 - 💞️ I’m looking to collaborate on ...
